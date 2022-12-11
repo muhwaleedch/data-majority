@@ -1,124 +1,104 @@
 {
   "main": {
-    "name":"Data Majority",
-    "description":"Software house providing data analysis, forecasting of data, machine learning, big data, data visualization, and many more.",
-    "image":"profilepic.jpg",
-    "bio":"Hello, my name is Ahmad Abdullah. I have a hobby of Programming. I am a Data Scientist and also a Python Programmer & Solutions provider. I have working experience as a freelancer in different projects. As a developer, I make modular, clean, object-oriented, and well-commented code, always aiming for quality and intelligence in the solutions. and I have 3 years experience as a Data Scientist . I started my career in Data Scientist since I was 19 years old.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-
-    "address":{
-      "street":"(Your Street)",
-      "city":"Rahim Yar Khan",
-      "state":",Punjab",
+    "name": "Data Majority",
+    "description": "Software house providing data analysis, forecasting of data, machine learning, big data, data visualization, and many more.",
+    "image": "profilepic.jpg",
+    "about": "What is data science? How to avail it and what benefits does it uncovers for us?? There are many more questions than this. A lot of questions always go unanswered, but not anymore. The company will give you all the information related to the data science. And a plus point, that this company also offers a course that is budget friendly and beneficial for the basic knowledge of data science.",
+    "bio": "Hello, my name is Ahmad Abdullah. I have a hobby of Programming. I am a Data Scientist and also a Python Programmer & Solutions provider. I have working experience as a freelancer in different projects. As a developer, I make modular, clean, object-oriented, and well-commented code, always aiming for quality and intelligence in the solutions and, I have 3 years experience as a Data Scientist. I started my career in Data Scientist since I was 19 years old.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "datamajority175@gmail.com",
+    "phone": "03439674442",
+    "address": {
+      "street": "House No 49/A Canal Garden,",
+      "city": "Rahim Yar Khan",
+      "state": "Punjab",
       "zip": "(64200)"
     },
-    "social":[
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/Datamajority",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/data-majority/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/company/data-majority/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name": "instagram",
+        "url": "https://www.instagram.com/data_majority/",
+        "className": "fa fa-instagram"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"Khwaja Fareed University of Engineering & Information Technology (KFUEIT)",
-        "degree":"Bachelors in Computer Science",
-        "graduated":"2022"     
-       }
-    ],
-    "work":[
-      {
-        "company":"Data Wizard",
-        "title":"Data Analyst",
-        "years":"2022 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Virtual Soft",
-        "title":"Data Scientest",
-        "years":"2021 - 2022",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "school": "Khwaja Fareed University of Engineering & Information Technology (KFUEIT)",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "2022"
       }
     ],
-    "skills":[
+    "work": [
       {
-        "name":"Python",
-        "level":"60%"
+        "company": "Data Wizard",
+        "title": "Data Analyst",
+        "years": "2022 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "company": "Virtual Soft",
+        "title": "Data Scientest",
+        "years": "2021 - 2022",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "ReactJs",
+        "level": "50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name": "PHP",
+        "level": "80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name": "JAVA",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Talha Arshad  (Director of Development)",
-        "description":"Director of Community Relations",
-        "image":"01.jpg"
+        "title": "Talha Arshad",
+        "description": "Director of Development",
+        "image": "01.jpg"
       },
       {
-        "title":"Director of Community Relations",
-        "description":"Director of Community Relations",
-        "image":"02.jpg"
+        "title": "M Waaz Zahid",
+        "description": "Director of Community Relations",
+        "image": "02.jpg"
       },
       {
-        "title":"Director of Logistics",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Ahmed Farzeen Malik",
+        "category": "Director of Logistics",
+        "image": "03.jpg"
       },
       {
-        "title":"Muhammad Waleed",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Muhammad Waleed",
+        "category": "Web Developer",
+        "image": "04.jpg"
       }
     ]
   }
